@@ -2,18 +2,18 @@ body {
   font-family: "Droid Sans", sans-serif; }
 
 header {
-  background: url("/img/goaf.jpg") repeat-x top center;
+  background: url("http://alsacedigitale.github.io/geeksonafarm/img/goaf.jpg") repeat-x top center;
   height: 542px; }
 
 .btn-calltoaction {
-  background: linear-gradient(to right, #4a90cc 0%, #4a90cc 30%, #285e8e 31.1%, #3276b1 31.2%, #3276b1 100%);
-  border-color: #285e8e;
-  color: white !important;
+  background: linear-gradient(to right, #4a90cc 0%, #4a90cc 30%, #285E8E 31.1%, #3276B1 31.2%, #3276B1 100%);
+  border-color: #285E8E;
+  color: #FFFFFF !important;
   outline: 0 none; }
   .btn-calltoaction:hover, .btn-calltoaction:focus, .btn-calltoaction:active {
-    background: linear-gradient(to right, #4a90cc 0%, #4a90cc 30%, #285e8e 31.1%, #3276b1 31.2%, #3276b1 100%);
-    border-color: #285e8e;
-    color: white !important;
+    background: linear-gradient(to right, #4a90cc 0%, #4a90cc 30%, #285E8E 31.1%, #3276B1 31.2%, #3276B1 100%);
+    border-color: #285E8E;
+    color: #FFFFFF !important;
     outline: 0 none; }
   .btn-calltoaction .price {
     margin-right: 40px; }
@@ -34,7 +34,7 @@ header {
   font-size: 22px; }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-  background-color: #3da819;
+  background-color: #3DA819;
   color: white; }
 
 .navbar-default {
@@ -45,7 +45,7 @@ header {
   .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:visited {
     font-family: "Bevan", cursive;
     text-transform: uppercase;
-    color: #3da819;
+    color: #3DA819;
     font-size: 40px;
     line-height: 40px; }
 
@@ -57,7 +57,7 @@ header {
   padding-right: 40px; }
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-  background-color: #3da819;
+  background-color: #3DA819;
   color: white; }
 
 .container .jumbotron {
@@ -78,17 +78,17 @@ header {
     line-height: 60%; }
 
 h1, h2, h3, h4, h5 {
-  color: #3da819; }
+  color: #3DA819; }
   h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
     text-decoration: none; }
 
 footer {
-  background-color: #f9f9f9;
+  background-color: #F9F9F9;
   padding-top: 45px;
   margin-top: 45px; }
   footer h3 {
     padding-bottom: 15px;
-    border-bottom: 1px solid #cccccc;
+    border-bottom: 1px solid #ccc;
     margin-bottom: 20px; }
   footer .post {
     margin-top: 15px; }
@@ -99,14 +99,14 @@ footer {
 
 .post .links {
   text-transform: uppercase;
-  color: #3da819; }
+  color: #3DA819; }
 
 a, a:hover, a:visited, a:focus {
-  color: #3da819; }
+  color: #3DA819; }
 
 .marketing {
   text-transform: uppercase;
-  color: #3da819;
+  color: #3DA819;
   font-size: 180%;
   line-height: 180%; }
   .marketing .list-inline > li {
@@ -117,7 +117,7 @@ a, a:hover, a:visited, a:focus {
   border-bottom: 2px solid white; }
 
 .table-bordered > thead > tr > th, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > tbody > tr > td, .table-bordered > tfoot > tr > td {
-  background-color: #f6f6f6;
+  background-color: #F6F6F6;
   border: 2px solid white; }
 
 .table th {
@@ -142,7 +142,7 @@ a, a:hover, a:visited, a:focus {
 
 .about h3 {
   padding-bottom: 15px;
-  border-bottom: 1px solid #cccccc; }
+  border-bottom: 1px solid #ccc; }
 .about p {
   margin: 15px 0 30px 0; }
 
@@ -162,7 +162,7 @@ a, a:hover, a:visited, a:focus {
 .blog .posts .row > .col-lg-12 {
   padding-bottom: 15px;
   margin-bottom: 15px;
-  border-bottom: 1px solid #cccccc; }
+  border-bottom: 1px solid #ccc; }
 
 .post .thumbnail {
   border: 0; }
@@ -172,8 +172,8 @@ a, a:hover, a:visited, a:focus {
     text-align: center; }
 
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
-  border-color: #3da819;
-  background-color: #3da819; }
+  border-color: #3DA819;
+  background-color: #3DA819; }
 
 .speaker {
   margin-top: 40px; }
@@ -195,7 +195,7 @@ a, a:hover, a:visited, a:focus {
 
 .timetable h2 {
   font-size: 160%;
-  background-color: #3da819;
+  background-color: #3DA819;
   color: white;
   display: inline-block;
   padding: 5px 20px;
@@ -246,11 +246,11 @@ a, a:hover, a:visited, a:focus {
     margin-bottom: 0; }
 
   .navbar-default .navbar-nav > li > a {
-    color: #3da819; }
+    color: #3DA819; }
     .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
       color: white;
       text-align: center;
-      background-color: #3da819;
+      background-color: #3DA819;
       transition: background-color 0.1s ease-in-out 0s; }
 
   nav {
@@ -286,3 +286,5 @@ a, a:hover, a:visited, a:focus {
   .timetable .nav-tabs > li > a {
     padding-left: 10px;
     padding-right: 10px; } }
+
+/*# sourceMappingURL=extra.css.map */

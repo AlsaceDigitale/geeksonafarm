@@ -31,7 +31,7 @@ body_class: home
   {% for item in site.speakers %}
     <div class="col-xs-12 col-md-3 speaker_hp">
       <a href="/speakers.html#{{ item | downcase | replace:' ','-' }}" class="thumbnail" title="{{ item }}">
-        <img src="/img/{{ item | downcase | replace:' ','_' }}.jpg" alt="{{ item }}">
+        <img src="{{ site.baseurl }}/img/{{ item | downcase | replace:' ','_' }}.jpg" alt="{{ item }}">
       </a>
     </div>
   {% endfor %}

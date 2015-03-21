@@ -3,7 +3,7 @@ markdown: redcarpet
 pygments: true
 paginate: 5
 paginate_path: "blog/page:num"
-baseurl: "http://alsacedigitale.github.io/geeksonafarm"
+baseurl: "/"
 speakers:
   - Florence Remy
   - Ralf Allrutz

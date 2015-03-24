@@ -2,7 +2,7 @@ body {
   font-family: "Droid Sans", sans-serif; }
 
 header {
-  background: url("http://alsacedigitale.github.io/geeksonafarm/img/goaf.jpg") repeat-x top center;
+  background: url("/img/goaf.jpg") repeat-x top center;
   height: 542px; }
 
 .btn-calltoaction {
